@@ -3,7 +3,7 @@
 A clean and production-ready web scraping project built with **Python**, **BeautifulSoup**, and **Requests**.  
 This project demonstrates how to **extract structured data from websites**, clean it, and prepare it for analysis or automation tasks.
 
----
+---   
 
 ## 📌 Why this project?
 Web scraping is an essential skill for **Data Analysts**, **Data Scientists**, and **Software Engineers**.  
